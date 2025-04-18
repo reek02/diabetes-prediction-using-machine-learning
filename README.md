@@ -1,4 +1,4 @@
-# diabetes-prediction-using-machine-learning-
+# Diabetes Prediction System using Machine learning and Streamlit
 
 ## Description
 A sleek, user‑friendly Streamlit web application sing Python &amp; Machine Learning (ML) that predicts the likelihood of diabetes based on key clinical measurements. Leveraging a pre‑trained Random Forest model, this tool provides:
