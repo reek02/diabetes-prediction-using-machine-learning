@@ -129,7 +129,7 @@ st.sidebar.markdown("""
 """)
 
 # Load model
-model = joblib.load("D:/Projects/tryouts/diabetes_prediction/random_forest_model.joblib")
+model = joblib.load("random_forest_model.joblib")
 
 if st.sidebar.button("🔍 Predict"):
     # Prepare input
