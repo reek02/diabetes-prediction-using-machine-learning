@@ -1,9 +1,0 @@
-pip install fpdf2      # For FPDF (package name is "fpdf2" but imported as "FPDF")
-pip install streamlit  # For Streamlit
-pip install joblib     # For Joblib
-
-
-"or"
-
-
-pip install fpdf2 streamlit joblib
