@@ -239,4 +239,4 @@ with st.expander("ℹ️ About the Model"):
 # Footer
 st.markdown("---")
 st.markdown("<footer>🔬 Developed with ❤️ by Reekparna Sen for health prediction using ML</footer>", unsafe_allow_html=True)
-st.markdown("<footer>If you liked this project, please consider supporting me: ❤️ buymeacoffee.com/reekparna ❤️ </footer>")
+st.markdown("<footer>If you liked this project, please consider supporting me:  ❤️ <a href="https://buymeacoffee.com/reekparna" target="_blank">buymeacoffee.com/reekparna</a> ❤️</footer>", unsafe_allow_html=True)
