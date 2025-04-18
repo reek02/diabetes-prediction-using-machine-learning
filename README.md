@@ -11,7 +11,7 @@ A sleek, user‑friendly Streamlit web application sing Python &amp; Machine Lea
 ---
 
 ## Preview
-[▶️ Live Demo on Streamlit Sharing](https://share.streamlit.io/your-username/advanced-diabetes-predictor/main/diabetes_app.py)
+[▶️ Live Demo on Streamlit Sharing](https://reek-diabetes-prediction-using-machine-learning.streamlit.app/)
 
 ---
 
@@ -22,7 +22,7 @@ A sleek, user‑friendly Streamlit web application sing Python &amp; Machine Lea
    - Simplifies complex clinical data into an **intuitive dashboard**  
 
 2. **How to use:**
-   - Launch the app in streamlit (`add link`)  
+   - Launch the app in streamlit (`https://reek-diabetes-prediction-using-machine-learning.streamlit.app/`)  
    - Launch the app locally (`streamlit run diabetes_app.py`)  
    - Enter patient metrics in the sidebar  
    - Click **🔍 Predict** to see results, charts, and tailored advice  
